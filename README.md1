@@ -1,0 +1,39 @@
+# Mini Capstone Project: Analysis of Rental Trends, Film Popularity, and Store Performance
+
+## Project Overview
+
+This project focuses on analyzing rental patterns, film popularity, and store performance using the MavenMovies Sakila database. The goal is to derive actionable insights from rental data to understand trends and performance metrics in a movie rental business.
+
+## Objectives
+
+1. **Rental Trends:**
+   - Analyze monthly rental trends to understand how rentals vary over time.
+   - Identify peak rental hours within the day to determine optimal times for promotions.
+
+2. **Film Popularity:**
+   - Identify the top 10 most rented films to highlight customer preferences.
+   - Determine which film categories are most popular to inform inventory decisions.
+
+3. **Store Performance:**
+   - Identify the store that generates the highest rental revenue to assess which locations are performing best.
+   - Analyze rental distribution by staff members to evaluate individual contributions to store performance.
+
+## Deliverables
+
+1. **SQL Queries:**
+   - Scripts used to extract data for analysis from the MavenMovies Sakila database.
+
+2. **Excel Workbook:**
+   - Contains CSV files with data extracted through SQL queries.
+   - Includes visualizations (line charts, bar charts) illustrating rental trends, peak hours, popular films, and film categories.
+
+3. **Report:**
+   - A comprehensive report summarizing findings, insights, and recommendations based on the analysis of rental patterns, film popularity, and store performance.
+
+## License
+
+This project is licensed under the [Creative Commons NonCommercial NoDerivatives (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/) License. This means:
+- You are free to share the project, provided you give appropriate credit.
+- You cannot use the project for commercial purposes.
+- You cannot make modifications or derivatives of the project.
+- Full license details can be found in the `LICENSE` file.
